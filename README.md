@@ -30,3 +30,11 @@ Issues e PRs bem-vindos. Esse é um projeto experimental aberto enquanto a tese 
 ## 📄 Licença
 
 MIT
+
+---
+
+## 📩 Contato
+
+**Chronokairo Software House** — chronokairo@gmail.com
+
+Interessado em personalização, parceria, piloto ou consultoria? Manda email :>
